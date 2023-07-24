@@ -5,8 +5,8 @@
 
 n = int(input("Введите количество монет: "))
 
-orel = a
-reshka = r
+orel = 1
+reshka = 0
 count1 = 0
 count2 = 0
 
